@@ -1,0 +1,542 @@
+{
+  "minepiece:battle_advancements": {
+    "criteria": {
+      "battle_advancements_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_basic_operations": {
+    "criteria": {
+      "mine_piece_basic_operations_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_new_world": {
+    "criteria": {
+      "battle_new_world_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_haki_skills": {
+    "criteria": {
+      "mine_piece_haki_skills_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_west_blue": {
+    "criteria": {
+      "battle_west_blue_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_reverse_mountain": {
+    "criteria": {
+      "battle_reverse_mountain_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "realmrpg_quests:root": {
+    "criteria": {
+      "root_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_charactor_skills": {
+    "criteria": {
+      "mine_piece_charactor_skills_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_skypiea": {
+    "criteria": {
+      "battle_skypiea_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_red_line": {
+    "criteria": {
+      "battle_red_line_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_north_blue": {
+    "criteria": {
+      "battle_north_blue_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_east_blue": {
+    "criteria": {
+      "battle_east_blue_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:start_mine_piece": {
+    "criteria": {
+      "start_mine_piece_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_south_blue": {
+    "criteria": {
+      "battle_south_blue_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_skills": {
+    "criteria": {
+      "mine_piece_skills_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_grand_line": {
+    "criteria": {
+      "battle_grand_line_0": "2025-03-03 02:12:04 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-03-03 02:12:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2025-03-03 04:15:34 -0400",
+      "minecraft:birch_forest": "2025-03-03 03:14:19 -0400",
+      "minecraft:beach": "2025-03-03 03:13:39 -0400",
+      "minecraft:stony_peaks": "2025-03-03 02:13:55 -0400",
+      "minecraft:sparse_jungle": "2025-03-03 02:12:05 -0400",
+      "minecraft:lukewarm_ocean": "2025-03-03 03:12:58 -0400",
+      "minecraft:river": "2025-03-03 05:49:35 -0400",
+      "minecraft:stony_shore": "2025-03-03 05:29:08 -0400",
+      "minecraft:dripstone_caves": "2025-03-03 03:13:30 -0400",
+      "minecraft:forest": "2025-03-03 05:24:57 -0400",
+      "minecraft:ocean": "2025-03-03 03:16:05 -0400",
+      "minecraft:deep_lukewarm_ocean": "2025-03-03 04:14:02 -0400",
+      "minecraft:flower_forest": "2025-03-03 03:29:56 -0400",
+      "minecraft:savanna": "2025-03-03 05:27:28 -0400",
+      "minecraft:plains": "2025-03-03 05:22:24 -0400"
+    },
+    "done": false
+  },
+  "minepiece:basic_operations_select_skill": {
+    "criteria": {
+      "basic_operations_select_skill_0": "2025-03-03 02:15:37 -0400"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_back_step": {
+    "criteria": {
+      "basic_operations_back_step_0": "2025-03-03 02:16:07 -0400"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_use_technique": {
+    "criteria": {
+      "basic_operations_use_technique_0": "2025-03-03 02:16:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-03 02:25:32 -0400"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_change_technique": {
+    "criteria": {
+      "basic_operations_change_technique_0": "2025-03-03 02:25:39 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 02:31:33 -0400"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-03-03 02:31:34 -0400"
+    },
+    "done": true
+  },
+  "minepiece:skill_haoshoku_haki": {
+    "criteria": {
+      "skill_haoshoku_haki_0": "2025-03-03 02:31:34 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 02:31:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-03 02:35:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-03-03 18:17:58 -0400",
+      "bread": "2025-03-03 02:35:36 -0400",
+      "cooked_chicken": "2025-03-03 04:25:53 -0400"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-03 02:35:57 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-03-03 02:37:04 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-03-03 02:40:36 -0400"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_create_crew": {
+    "criteria": {
+      "basic_operations_create_crew_0": "2025-03-03 02:41:42 -0400"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_the_first": {
+    "criteria": {
+      "basic_operations_the_first_0": "2025-03-03 02:51:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-03 02:51:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-03 02:59:53 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2025-03-03 02:59:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-03 03:00:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-03 03:01:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-03 03:13:34 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-03-03 03:15:33 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 03:23:55 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 03:23:55 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-03 03:24:54 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 03:24:55 -0400"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-03-03 03:25:07 -0400"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-03-03 03:28:33 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_morgan": {
+    "criteria": {
+      "battle_morgan_0": "2025-03-03 03:31:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-03 03:37:31 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-03-03 03:37:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-03 03:37:33 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-03-03 03:37:33 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-03-03 03:37:33 -0400"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-03 03:38:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-03 03:42:43 -0400"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-03 03:47:01 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 03:48:49 -0400"
+    },
+    "done": true
+  },
+  "minepiece:skill_armament_haki": {
+    "criteria": {
+      "skill_armament_haki_0": "2025-03-03 03:50:37 -0400"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_perfect_guard": {
+    "criteria": {
+      "basic_operations_perfect_guard_0": "2025-03-03 04:04:33 -0400"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_guard": {
+    "criteria": {
+      "basic_operations_guard_0": "2025-03-03 04:04:33 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_sham": {
+    "criteria": {
+      "battle_sham_0": "2025-03-03 04:08:08 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_buchi": {
+    "criteria": {
+      "battle_buchi_0": "2025-03-03 04:08:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:guardian": "2025-03-03 04:19:21 -0400",
+      "minecraft:vindicator": "2025-03-03 04:37:02 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:guardian": "2025-03-03 04:19:21 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-03 04:28:39 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_alvida": {
+    "criteria": {
+      "battle_alvida_0": "2025-03-03 04:33:06 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-03-03 04:35:49 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 04:37:02 -0400"
+    },
+    "done": true
+  },
+  "minepiece:grade_30_m": {
+    "criteria": {
+      "grade_30_m_0": "2025-03-03 04:44:05 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_luffy_1": {
+    "criteria": {
+      "battle_luffy_1_0": "2025-03-03 04:44:05 -0400"
+    },
+    "done": true
+  },
+  "minepiece:battle_zoro_1": {
+    "criteria": {
+      "battle_zoro_1_0": "2025-03-03 05:02:54 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-03-03 05:34:03 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 05:49:10 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-03 05:59:47 -0400"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2025-03-03 06:04:10 -0400"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-03-03 17:54:57 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-03-03 17:54:57 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-03-03 17:54:57 -0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-03-03 17:54:57 -0400"
+    },
+    "done": true
+  },
+  "mokels_adventure:basic_wand_advancement": {
+    "criteria": {
+      "basic_wand_advancement": "2025-03-03 18:22:53 -0400"
+    },
+    "done": true
+  },
+  "minepiece:update": {
+    "criteria": {
+      "update_0": "2025-03-04 13:55:57 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
